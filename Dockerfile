@@ -14,3 +14,6 @@ RUN pacman -S --noconfirm \
     wget \
     git \
     unzip \
+    xorg-xrandr \
+    kmod \
+    pulseaudio \
