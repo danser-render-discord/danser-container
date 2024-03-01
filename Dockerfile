@@ -11,3 +11,6 @@ RUN pacman -S --noconfirm \
     firefox \
     geckodriver \
     python-pip \
+    wget \
+    git \
+    unzip \
